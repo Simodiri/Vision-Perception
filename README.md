@@ -8,4 +8,4 @@ These are the two different implementations:
 
 -Mobilenet-like StyleTransferModel: 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17AJCibEXmysLLfQbUnHpnb1UUQNimt32)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VZksC1AA4n5jhw-_W2MLgXog5ePOhAjH?usp=sharing)
